@@ -1,0 +1,20 @@
+		ROMANIA
+	MINISTERUL APARARII NATIONALE 
+ACADEMIA TEHNICA MILITARA "FERDINAND I"
+	:rol: :nume: :prenume:
+		Bucuresti
+
+			COMANDANTULUI (RECTORULUI)
+		ACADEMIEI TEHNICE MILITARE "FERDINAND I"
+
+	Raportez:
+	Va adresez rugamintea sa-mi aprobati sa ma deplasez in :localitate:, :tara: in perioada :data1: - :data2:.
+	In conformitate cu prevederile art. 14 si 15 din "M.S.198/2020,Ordinul ministrului apararii nationale privind obligatiile personalului din Ministerul Apararii Nationale care participa la activitati internationale in interes de serviciu sau stabileste relati cu strainii in interes personal", mentionez urmatoarele:
+	- in perioada respectiva voi avea ca scop al deplasarii :scop:;
+	- sunt insotit de sotia mea/partenera/prietena mea, etc.
+	- deplasarea se va efectua cu avionul/autoturismul proprietate personala, iar toate cheltuielile sunt asigurate din fonduri proprii;
+	Telefon de contact pe perioada prezentei in strainatate: :telefon:.
+	Ma angajez ca pe timpul cat ma voi afla in strainatate sa respect regulile privind protectia informatiilor clasificate si prevederile regulamentare specifice.
+		
+Data
+:data:

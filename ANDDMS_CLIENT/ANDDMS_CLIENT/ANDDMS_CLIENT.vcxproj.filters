@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Document">
+      <UniqueIdentifier>{42200ec0-48b2-4c2f-9e23-6617b5aa920f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Document">
+      <UniqueIdentifier>{ba43882b-c906-4e05-bcc5-a202e55ac9a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ferestre">
+      <UniqueIdentifier>{d684d875-250c-4d61-ae24-1b4d321c070f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Client">
+      <UniqueIdentifier>{23247c71-64c2-4903-a08d-1a87d684f44e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Team-uri">
+      <UniqueIdentifier>{adc51952-c128-4e6f-b183-d55ebf073901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Client">
+      <UniqueIdentifier>{0be7d5b5-c836-4549-b798-d8f0d7662229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Team-uri">
+      <UniqueIdentifier>{9f6ff5db-5a3b-4d67-95ac-25f59d364234}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDocument.cpp">
+      <Filter>Source Files\Document</Filter>
+    </ClCompile>
+    <ClCompile Include="CSablon.cpp">
+      <Filter>Source Files\Document</Filter>
+    </ClCompile>
+    <ClCompile Include="CDocPersonalizat.cpp">
+      <Filter>Source Files\Document</Filter>
+    </ClCompile>
+    <ClCompile Include="LogIn.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="InregistrareForm.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="DocPrimiteForm.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="MainForm.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="CClient.cpp">
+      <Filter>Source Files\Client</Filter>
+    </ClCompile>
+    <ClCompile Include="CTeam.cpp">
+      <Filter>Source Files\Team-uri</Filter>
+    </ClCompile>
+    <ClCompile Include="DocAcceptateForm.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="DocRespinseForm.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="DocTrimiseForm.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="TrimiteForm.cpp">
+      <Filter>Source Files\Ferestre</Filter>
+    </ClCompile>
+    <ClCompile Include="T_Studenti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T_Profesori.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T_CadreMilitare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SETARI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDocACCEPTATE.cpp">
+      <Filter>Source Files\Document</Filter>
+    </ClCompile>
+    <ClCompile Include="CDocPRIMITE.cpp">
+      <Filter>Source Files\Document</Filter>
+    </ClCompile>
+    <ClCompile Include="CDocRESPINSE.cpp">
+      <Filter>Source Files\Document</Filter>
+    </ClCompile>
+    <ClCompile Include="CDocTRIMISE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LogIn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDocument.h">
+      <Filter>Header Files\Document</Filter>
+    </ClInclude>
+    <ClInclude Include="CSablon.h">
+      <Filter>Header Files\Document</Filter>
+    </ClInclude>
+    <ClInclude Include="CDocPersonalizat.h">
+      <Filter>Header Files\Document</Filter>
+    </ClInclude>
+    <ClInclude Include="InregistrareForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DocPrimiteForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CClient.h">
+      <Filter>Header Files\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="CTeam.h">
+      <Filter>Header Files\Team-uri</Filter>
+    </ClInclude>
+    <ClInclude Include="DocAcceptateForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DocRespinseForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DocTrimiseForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrimiteForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T_Studenti.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T_Profesori.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T_CadreMilitare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SETARI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDocPRIMITE.h">
+      <Filter>Header Files\Document</Filter>
+    </ClInclude>
+    <ClInclude Include="CDocACCEPTATE.h">
+      <Filter>Header Files\Document</Filter>
+    </ClInclude>
+    <ClInclude Include="CDocRESPINSE.h">
+      <Filter>Header Files\Document</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDocTRIMISE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ANDDMS_CLIENT.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

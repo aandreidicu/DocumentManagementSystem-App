@@ -1,0 +1,17 @@
+ROMANIA
+MINISTERUL APARARII NATIONALE
+ACADEMIA TEHNICA MILITARA ,,FERDINAND I''
+:rol: :nume: :prenume:
+BUCURESTI
+
+		COMANDANTULUI (RECTORULUI)
+	   ACADEMIEI TEHNICE MILITARE ,,FERDINAND I'' 
+
+Raportez:
+Va adresez rugamintea sa-mi aprobati o permisie in perioada: :data1: pana in :data2:.
+Mentionez ca ma voi deplasa in localitatea :localitate:, judetul :judet: cu mijloace de transport in comun (tren, autobuz) si pot fi contactat(a) la numarul de telefon: :telefon:.
+Precizez ca aceasta permisie imi este necesara deoarece :scop:.
+Baza legala: Anexa nr 9 (art 126), pct I. 1, lit. A)/g)/h)/i) din Regulamentul de ordine interioara.
+
+Data
+:data:

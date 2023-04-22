@@ -1,0 +1,116 @@
+  ANDDMSCLIENT.DocAcceptateForm.resources - Embedded, ContainedInManifestFile, 
+  ANDDMSCLIENT.DocPrimiteForm.resources - Embedded, ContainedInManifestFile, 
+  ANDDMSCLIENT.DocRespinseForm.resources - Embedded, ContainedInManifestFile, 
+  ANDDMSCLIENT.DocTrimiseForm.resources - Embedded, ContainedInManifestFile, 
+  ANDDMSCLIENT.InregistrareForm.resources - Embedded, ContainedInManifestFile, 
+  ANDDMSCLIENT.LogIn.resources - Embedded, ContainedInManifestFile, 
+  ANDDMSCLIENT.MainForm.resources - Embedded, ContainedInManifestFile, 
+  ANDDMSCLIENT.TrimiteForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ANDDMS_CLIENT, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ANDDMSCLIENT.DocAcceptateForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.DocPrimiteForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.DocRespinseForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.DocTrimiseForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.TrimiteForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.T_Studenti: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.T_Profesori: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.T_CadreMilitare: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.SETARI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet, System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean flag : Public
+    Boolean flagTeams : Public
+    Pachet clientul : Public
+    System.Windows.Forms.Form obj_ : Public
+    System.Threading.Mutex mtx : Public
+    ANDDMSCLIENT.DocPrimiteForm docPrimiteForm : Public
+    ANDDMSCLIENT.DocAcceptateForm docAcceptateForm : Public
+    ANDDMSCLIENT.DocRespinseForm docRespinseForm : Public
+    ANDDMSCLIENT.DocTrimiseForm docTrimiseForm : Public
+    ANDDMSCLIENT.TrimiteForm trimiteForm : Public
+    ANDDMSCLIENT.T_Studenti tStudentForm : Public
+    ANDDMSCLIENT.T_Profesori tProfesorForm : Public
+    ANDDMSCLIENT.T_CadreMilitare tCadruMilitarForm : Public
+    ANDDMSCLIENT.SETARI SetariForm : Public
+Class ANDDMSCLIENT.InregistrareForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet, System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    Boolean flag2SI : Public
+    Boolean flag3SI : Public
+    System.Windows.Forms.Form obj : Public
+    System.Threading.Mutex mtx : Public
+Class ANDDMSCLIENT.LogIn: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Pachet): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Pachet clientul : Public
+    Boolean flag : Public
+    Boolean flag1 : Public
+    ANDDMSCLIENT.InregistrareForm inregForm : Public
+    ANDDMSCLIENT.MainForm mainForm : Public
+    System.Threading.Mutex mtx : Public
+  Methods:
+    parsare_client(Pachet): PrivateScope, Public, HideBySig

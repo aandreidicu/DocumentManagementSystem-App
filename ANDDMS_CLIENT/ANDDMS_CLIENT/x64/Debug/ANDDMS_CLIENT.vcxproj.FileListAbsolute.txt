@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMS_CLIENT.vcxproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMS_CLIENT.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.LogIn.resources
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMS_CLIENT.vcxproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.InregistrareForm.resources
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.MainForm.resources
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.DocPrimiteForm.resources
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.DocTrimiseForm.resources
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.DocAcceptateForm.resources
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.DocRespinseForm.resources
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\x64\Debug\ANDDMSCLIENT.TrimiteForm.resources

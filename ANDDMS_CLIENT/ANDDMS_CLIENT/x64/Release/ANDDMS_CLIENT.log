@@ -1,0 +1,279 @@
+﻿  CClient.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(5,15): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(48,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(89,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(111,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(127,9): warning C4244: 'return': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(266,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(272,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(274,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.cpp(287,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CDocPersonalizat.cpp
+  CDocPRIMITE.cpp
+  CDocument.cpp
+  CSablon.cpp
+  CTeam.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(148,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(184,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(143,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(147,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DocAcceptateForm.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(20,19): warning C4677: 'DocAcceptateForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  DocPrimiteForm.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(27,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(28,17): warning C4677: 'DocPrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  DocRespinseForm.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(20,18): warning C4677: 'DocRespinseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  DocTrimiseForm.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(20,17): warning C4677: 'DocTrimiseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  InregistrareForm.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(27,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(28,17): warning C4677: 'DocPrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(20,19): warning C4677: 'DocAcceptateForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(20,18): warning C4677: 'DocRespinseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(20,17): warning C4677: 'DocTrimiseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(20,14): warning C4677: 'TrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(20,13): warning C4677: 'T_Studenti': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(20,14): warning C4677: 'T_Profesori': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(20,18): warning C4677: 'T_CadreMilitare': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(20,9): warning C4677: 'SETARI': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(42,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(49,11): warning C4677: 'MainForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(499,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\InregistrareForm.h(24,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\InregistrareForm.h(29,19): warning C4677: 'InregistrareForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  LogIn.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(27,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(28,17): warning C4677: 'DocPrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(20,19): warning C4677: 'DocAcceptateForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(20,18): warning C4677: 'DocRespinseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(20,17): warning C4677: 'DocTrimiseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(20,14): warning C4677: 'TrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(20,13): warning C4677: 'T_Studenti': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(20,14): warning C4677: 'T_Profesori': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(20,18): warning C4677: 'T_CadreMilitare': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(20,9): warning C4677: 'SETARI': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(42,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(49,11): warning C4677: 'MainForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(499,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\InregistrareForm.h(24,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\InregistrareForm.h(29,19): warning C4677: 'InregistrareForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\LogIn.h(23,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\LogIn.h(34,8): warning C4677: 'LogIn': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\LogIn.h(335,2): warning C4677: 'parsare_client': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  MainForm.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(27,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(28,17): warning C4677: 'DocPrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(20,19): warning C4677: 'DocAcceptateForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(20,18): warning C4677: 'DocRespinseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(20,17): warning C4677: 'DocTrimiseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(20,14): warning C4677: 'TrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(20,13): warning C4677: 'T_Studenti': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(20,14): warning C4677: 'T_Profesori': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(20,18): warning C4677: 'T_CadreMilitare': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(20,9): warning C4677: 'SETARI': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(42,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(49,11): warning C4677: 'MainForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(499,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+  SETARI.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(20,9): warning C4677: 'SETARI': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  Source.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(148,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(184,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(143,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(147,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(27,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocPrimiteForm.h(28,17): warning C4677: 'DocPrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocAcceptateForm.h(20,19): warning C4677: 'DocAcceptateForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocRespinseForm.h(20,18): warning C4677: 'DocRespinseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\DocTrimiseForm.h(20,17): warning C4677: 'DocTrimiseForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(20,14): warning C4677: 'TrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(20,13): warning C4677: 'T_Studenti': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(20,14): warning C4677: 'T_Profesori': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(20,18): warning C4677: 'T_CadreMilitare': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\SETARI.h(20,9): warning C4677: 'SETARI': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(42,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(49,11): warning C4677: 'MainForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\MainForm.h(499,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\InregistrareForm.h(24,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\InregistrareForm.h(29,19): warning C4677: 'InregistrareForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\LogIn.h(23,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\LogIn.h(34,8): warning C4677: 'LogIn': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\LogIn.h(335,2): warning C4677: 'parsare_client': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  TrimiteForm.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\TrimiteForm.h(20,14): warning C4677: 'TrimiteForm': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  T_CadreMilitare.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_CadreMilitare.h(20,18): warning C4677: 'T_CadreMilitare': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  T_Profesori.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Profesori.h(20,14): warning C4677: 'T_Profesori': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  T_Studenti.cpp
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(19,19): warning C4677: 'clientul': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\T_Studenti.h(20,13): warning C4677: 'T_Studenti': signature of non-private member contains assembly private type 'Pachet'
+C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\ANDDMS_CLIENT\CClient.h(83): message : see declaration of 'Pachet'
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  CClient.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ANDDMS_CLIENT.vcxproj -> C:\Users\andre\OneDrive\Desktop\Proiect POO\Demo5\ANDDMS_CLIENT\x64\Release\ANDDMS_CLIENT.exe
